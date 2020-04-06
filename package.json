@@ -1,0 +1,23 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "for outreachy submittion, a prototype",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankitakashyap29/slackbot_HOT_OSM.git"
+  },
+  "author": "Ankita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankitakashyap29/slackbot_HOT_OSM/issues"
+  },
+  "homepage": "https://github.com/Ankitakashyap29/slackbot_HOT_OSM#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "slackbots": "^1.2.0"
+  }
+}
