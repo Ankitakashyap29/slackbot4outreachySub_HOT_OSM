@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Ankitakashyap29/slackbot_HOT_OSM#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "slackbots": "^1.2.0"
   }
 }
